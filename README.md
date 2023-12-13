@@ -1,5 +1,5 @@
 # 💫 About Me:
-Beykoz Üniversitesi Fizyoterapi bölümü mezunuyum. Bursa Teknik Üniversitesi Endüstri Mühendisliği 1. sınıf öğrencisiyim. Yazılım, otomasyon ve robotik alanlara ilgim sayesinde Teknofest bünyesinde tarımsal insansız kara aracı ve savaşan insansız hava aracı olmak üzere iki farklı projede yer edindim. C++, C, Python bilgim var. Unity ile oyun geliştirme, AutoCad ve SolidWorks ile çizim konularıyla uğraşıyorum. Uyumlu bir yapıda olduğum için iyi bir takım arkadaşı ve yönetebilme yeteneklerimden dolayı iyi bir lider olabileceğimi düşünüyorum. 
+Beykoz Üniversitesi Fizyoterapi bölümü mezunuyum. Endüstri Mühendisliği bölümünde ilk yılımı Bursa Teknik Üniversitesi’nde tamamladıktan sonra, yatay geçişle Doğuş Üniversitesi'ne geçiş yaptım. 2. sınıf öğrencisi olarak lisans eğitimime devam ediyorum. Teknoloji alanında çeşitli projelerde yer aldım. Takım içi uyum ve insan ilişkileri güçlü yönlerim.
 
 
 ## 🌐 Socials:
